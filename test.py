@@ -5,3 +5,4 @@ while 3 in a:
     print(i)
     i += 1
 print(a)
+
